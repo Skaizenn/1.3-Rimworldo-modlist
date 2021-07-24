@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModList>
+	<Name>1.3 Rimworldo modlist</Name>
+	<modIds>
+		<li>brrainz.harmony</li>
+		<li>me.samboycoding.betterloading</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>unlimitedhugs.hugslib</li>
+		<li>ludeon.rimworld.ideology</li>
+		<li>void.charactereditor</li>
+		<li>hahkethomemah.simplepersonalities</li>
+		<li>scruffy.storyteller.trump</li>
+		<li>mlie.21stcenturyarsenal</li>
+		<li>latta.fsharp.core</li>
+		<li>automatic.gunplay</li>
+		<li>roolo.dualwield</li>
+		<li>com.yayo.combat3</li>
+		<li>erdelf.humanoidalienraces</li>
+		<li>neronix17.toolbox</li>
+		<li>brrainz.achtung</li>
+		<li>newcolonist.adaptivethreats</li>
+		<li>qx.astramilitarum</li>
+		<li>qx.astramilitarum.factions</li>
+		<li>ogliss.admech.armoury</li>
+		<li>ogliss.admech.xenobiologis</li>
+		<li>mlie.advancedbiomes</li>
+		<li>morph.advanceddoors</li>
+		<li>meltup.advancedpowerplus</li>
+		<li>ogliss.alienvspredator</li>
+		<li>spoonshortage.adogsaidanimalprosthetics</li>
+		<li>tachyonite.pawnmorpherpublic</li>
+		<li>vanillaexpanded.achievements</li>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+		<li>sarg.alphaanimals</li>
+		<li>zylle.alphabiomesmatscompat</li>
+		<li>bionicfrog.alienraces.amogusrace</li>
+		<li>eastern.armory.geminingen</li>
+		<li>chjees.androids</li>
+		<li>xrushha.animaanimals</li>
+		<li>acpteam.acpvanillastyle</li>
+		<li>dylan.animalgear</li>
+		<li>co.uk.epicguru.antimatterannihilation</li>
+		<li>shinzy.apparello</li>
+		<li>jgh.archotechbrain</li>
+		<li>teok25.archotechexpanded</li>
+		<li>mlie.archotechplus</li>
+		<li>taranchuk.archotechplus</li>
+		<li>4ydra.arsenalofrevolution</li>
+		<li>carnagion.artifactsexpanded</li>
+		<li>xercaine.industrialage.artillery</li>
+		<li>flyingstar.automortarsunofficial</li>
+		<li>automatic.autocleaner</li>
+		<li>madarauchiha.custommapsizes</li>
+		<li>voult.betterpawncontrol</li>
+		<li>co.uk.epicguru.bettertranshumanists</li>
+		<li>pyrce.swimming.modkit</li>
+		<li>biomesteam.biomescore</li>
+		<li>biomesteam.oasis</li>
+		<li>frozensnowfox.advancedbionicsexpansion</li>
+		<li>automatic.bionicicons</li>
+		<li>scherub.bulkstonecutting</li>
+		<li>crashm.colorcodedmoodbar.11</li>
+		<li>brrainz.cameraplus</li>
+		<li>jovianpug.caravanlageliminator</li>
+		<li>dubwise.dubsbadhygiene</li>
+		<li>avilmask.commonsense</li>
+		<li>atomicravioli.crystalloid</li>
+		<li>kikohi.cybernetic</li>
+		<li>elstrages.cyberneticstorm</li>
+		<li>proxyer.desurgeries.desurgeries</li>
+		<li>mlie.doomfactions</li>
+		<li>scherub.damageindicators</li>
+		<li>troopersmith1.deathrattle</li>
+		<li>spino.megafauna</li>
+		<li>spincrus.dinosauria</li>
+		<li>ogliss.mythos.diseasesoverhauled</li>
+		<li>tikubonn.dontblockdoor</li>
+		<li>dracoix.doormat.r12a</li>
+		<li>unlimitedhugs.allowtool</li>
+		<li>dubwise.dubsmintmenus</li>
+		<li>dubwise.dubsskylights</li>
+		<li>ducks.insaneskills</li>
+		<li>ducks.noideologylimits</li>
+		<li>mlie.dune</li>
+		<li>nilchei.dynamicdiplomacy</li>
+		<li>edb.preparecarefully.unofficialpatch</li>
+		<li>xrushha.animagear</li>
+		<li>xrushha.eldersfaction</li>
+		<li>carnysenpai.enableoversizedweapons</li>
+		<li>vambypants111.epichrivers</li>
+		<li>statistno1.evolvedorgansredux</li>
+		<li>mlie.expandedincidents</li>
+		<li>ykara.epoe</li>
+		<li>mlie.explosiveimplant</li>
+		<li>rick.fcpfnvheavyweapons</li>
+		<li>rick.fcpccrp</li>
+		<li>rick.fcpfnvarlmg</li>
+		<li>rick.fcpfnvleveractionrifles</li>
+		<li>rick.fcpfnvpsitols</li>
+		<li>rick.fcpfnvshotguns</li>
+		<li>rick.fcpfnvsmg</li>
+		<li>rick.lunz.fcpmks</li>
+		<li>rick.fcpraid</li>
+		<li>mlie.factiontoempires</li>
+		<li>mlie.fallouttraits</li>
+		<li>legendaryminuteman.frwp</li>
+		<li>chefboy.family</li>
+		<li>mantrasong.farmableneutroamine.1</li>
+		<li>ottersholdhands.felltribes</li>
+		<li>forsakens.fauna</li>
+		<li>aoba.fortress.medieval</li>
+		<li>aoba.fortress.medieval.material</li>
+		<li>aoba.fortress.neolithic</li>
+		<li>k.glitternet</li>
+		<li>albion.goexplore</li>
+		<li>mlie.greyermorals</li>
+		<li>mlie.hplovecraftstoryteller</li>
+		<li>theinfinityiq.halo.unsc</li>
+		<li>mlie.hightechlaboratoryfacilities</li>
+		<li>tory.icons.historical</li>
+		<li>mlie.horrors</li>
+		<li>arandomkiwi.huntforme</li>
+		<li>petetimessix.simplesidearms</li>
+		<li>netrve.usemelee</li>
+		<li>zylle.hybridanimals</li>
+		<li>com.yayo.propaganda</li>
+		<li>fridgebaron.immortals</li>
+		<li>tyrannical_elmo.industrialmelee</li>
+		<li>notfood.infused</li>
+		<li>latta.infusion</li>
+		<li>nilchei.insectoidsevolved</li>
+		<li>catachat.inspirationtweaks</li>
+		<li>axlit.introducingslavery</li>
+		<li>mlie.jinrohkerberospanzercoparmor</li>
+		<li>brrainz.justignoremepassing</li>
+		<li>alien.kaiserarmory</li>
+		<li>kenshi.armory.geminingen</li>
+		<li>sharpedo.kenshihivers</li>
+		<li>sharpedo.kenshiskeletons</li>
+		<li>arandomkiwi.killforme</li>
+		<li>newcolonist.largefactionbases</li>
+		<li>legodude17.autopriorities</li>
+		<li>zhrocks11.letstrade</li>
+		<li>krafs.levelup</li>
+		<li>owlchemist.lizardmen</li>
+		<li>ratys.madskills</li>
+		<li>sarg.magicalmenagerie</li>
+		<li>supes.mapwideorbitaltradebeacon</li>
+		<li>pyrce.mass.graves</li>
+		<li>chairheir.mechaniteplague</li>
+		<li>naifeito.mw</li>
+		<li>spino.mechanoidsextraordinaire</li>
+		<li>madman.toolsofthetrade</li>
+		<li>vindar.medievaltimes</li>
+		<li>notfood.mendandrecycle</li>
+		<li>erdelf.minifyeverything</li>
+		<li>haplo.miscellaneous.core</li>
+		<li>haplo.miscellaneous.endgame</li>
+		<li>haplo.miscellaneous.incidents</li>
+		<li>haplo.miscellaneous.training</li>
+		<li>fluffy.modmanager</li>
+		<li>moonjelly.race.mod</li>
+		<li>mlie.morefactioninteraction</li>
+		<li>navyseal5.moreharvestdesignators</li>
+		<li>orion.moremechanoids</li>
+		<li>gunmar.moremeleeweapons</li>
+		<li>sirrandoo.mpe</li>
+		<li>noodlesking.morepsycasts</li>
+		<li>zylle.morevanillabiomes</li>
+		<li>paradox.morevanillaturrets</li>
+		<li>biomesteam.biomesislands</li>
+		<li>sarg.alphabiomes</li>
+		<li>vanillaexpanded.vappe</li>
+		<li>argon.vmeup</li>
+		<li>vanillaexpanded.vcef</li>
+		<li>regrowth.botr.core</li>
+		<li>regrowth.botr.aspenforest</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vcooke</li>
+		<li>oskarpotocki.vfe.insectoid</li>
+		<li>sirmashedpotato.morrowrim</li>
+		<li>lumi.incidentnp</li>
+		<li>ladycookie.nanotech</li>
+		<li>translucency.braininajar</li>
+		<li>rah.rbse</li>
+		<li>ogliss.ykara.harvesteverything</li>
+		<li>smuffle.harvestorganspostmortem</li>
+		<li>zyxabacab.nosympathyforprisoners</li>
+		<li>7h28j.nomoresleepingzs</li>
+		<li>mlie.norbals</li>
+		<li>obsidiaexpansion.core</li>
+		<li>ogre.ogrestack</li>
+		<li>mediocresoftware.overkillgodtrait</li>
+		<li>rimfridge.kv.rw</li>
+		<li>lwm.deepstorage</li>
+		<li>mehni.pickupandhaul</li>
+		<li>aoba.tent</li>
+		<li>aoba.tentshelters</li>
+		<li>simmin.powertools</li>
+		<li>spdskatr.projectrimfactory</li>
+		<li>spdskatr.projectrimfactory.drones</li>
+		<li>com.spdskatr.projectrimfactory.insanity</li>
+		<li>k.psitech</li>
+		<li>mlie.pulsefireturret</li>
+		<li>rebelrabbit.qualitybionics</li>
+		<li>legodude17.qualcolor</li>
+		<li>sdknm2.qualityofbuilding</li>
+		<li>hatti.qualitysurgeon</li>
+		<li>ogliss.thewhitecrayon.quarry</li>
+		<li>longwater.smartstockpilecreation</li>
+		<li>spoonshortage.rimkea</li>
+		<li>sandy.rpgstyleinventory.avilmask.revamped</li>
+		<li>ratys.rtfuse</li>
+		<li>sargoskar.racetotherim</li>
+		<li>arandomkiwi.raidsforme</li>
+		<li>mlie.ramboweaponspack</li>
+		<li>regrowth.botr.borealforestexpansion</li>
+		<li>regrowth.botr.coldbogexpansion</li>
+		<li>regrowth.botr.desertexpansion</li>
+		<li>regrowth.botr.extinctanimalspack</li>
+		<li>regrowth.botr.temperateforestexpansion</li>
+		<li>regrowth.botr.tundraexpansion</li>
+		<li>regrowth.botr.wastelands</li>
+		<li>scherub.realisticrooms</li>
+		<li>mlie.rebound</li>
+		<li>bichang.reddragon</li>
+		<li>freefolk.remedies</li>
+		<li>mlie.removeallbodyparts</li>
+		<li>avilmask.researchwhatever</li>
+		<li>vinalx.researchpalforked</li>
+		<li>mlie.rimofmadnessarachnophobia</li>
+		<li>sihv.rombones</li>
+		<li>vexedtrees980.rimuhiversi</li>
+		<li>vexedtrees980.rimshek</li>
+		<li>sarg.rimbees</li>
+		<li>cabbage.rimcities</li>
+		<li>co.uk.epicguru.rimforge</li>
+		<li>jaxe.rimhud</li>
+		<li>radzerp.neorimnauts</li>
+		<li>mlie.rimquest</li>
+		<li>sierra.rt.generaltraits</li>
+		<li>sierra.rt.medievaltalents</li>
+		<li>sierra.rt.vanillatraitcolors</li>
+		<li>dubwise.rimatomics</li>
+		<li>dubwise.rimefeller</li>
+		<li>automatic.rimlaser</li>
+		<li>rimsenal.evp</li>
+		<li>rimsenal.federation</li>
+		<li>rimsenal.feral</li>
+		<li>rimsenal.core</li>
+		<li>rimsenal.hair</li>
+		<li>rimsenal.security</li>
+		<li>rimsenal.storyteller</li>
+		<li>mlie.runandhide</li>
+		<li>roolo.runandgun</li>
+		<li>kentington.saveloadideo</li>
+		<li>mlie.scarification</li>
+		<li>mlie.scheduledevents</li>
+		<li>iluvsilicon.shadowrimraces</li>
+		<li>pyrce.sharknado</li>
+		<li>jamaicancastle.shoo</li>
+		<li>lanilor.simplerecycling</li>
+		<li>mlie.simplymorebridges</li>
+		<li>razar1.skrixrace</li>
+		<li>usgiyi.slaveoutfits</li>
+		<li>sarg.smartspeed</li>
+		<li>dhultgren.smarterconstruction</li>
+		<li>weilbyte.snapout</li>
+		<li>alien.sovietarmory</li>
+		<li>oculyn.sowableanima</li>
+		<li>mlie.spaceworms</li>
+		<li>albion.sparklingworlds.full</li>
+		<li>rsev.synergistictraits</li>
+		<li>ghxx.techadvancing</li>
+		<li>energistics.techprimitives</li>
+		<li>alexzergling.zerg</li>
+		<li>gt.sam.tilledsoil</li>
+		<li>carnysenpai.traitraritycolors</li>
+		<li>hiztaar.optionnal.uscmxenomorphs</li>
+		<li>hlx.ultratechalteredcarbon</li>
+		<li>paragon.hanul.unlimitedarmor</li>
+		<li>mlie.unlockemperor</li>
+		<li>dismarzero.vgp.vgpvegetablegarden</li>
+		<li>dismarzero.vgp.vgpgardenresources</li>
+		<li>dismarzero.vgp.vgpmoreveggies</li>
+		<li>dismarzero.vgp.xtratreesandflowers</li>
+		<li>vanillaexpanded.vaeas</li>
+		<li>vanillaexpanded.vaeau</li>
+		<li>vanillaexpanded.vaebf</li>
+		<li>vanillaexpanded.vaecd</li>
+		<li>vanillaexpanded.vaed</li>
+		<li>vanillaexpanded.vaeed</li>
+		<li>vanillaexpanded.vaeis</li>
+		<li>vanillaexpanded.vaetf</li>
+		<li>vanillaexpanded.vaetr</li>
+		<li>vanillaexpanded.vaets</li>
+		<li>vanillaexpanded.vaet</li>
+		<li>vanillaexpanded.vaeaccessories</li>
+		<li>vanillaexpanded.varme</li>
+		<li>vanillaexpanded.vcookestews</li>
+		<li>vanillaexpanded.vee</li>
+		<li>jgh.mechanoidbench2</li>
+		<li>oskarpotocki.vfe.mechanoid</li>
+		<li>vanillaexpanded.vcefaddon</li>
+		<li>vanillaexpanded.vfecore</li>
+		<li>vanillaexpanded.vfeart</li>
+		<li>vanillaexpanded.vfefarming</li>
+		<li>vanillaexpanded.vfemedical</li>
+		<li>vanillaexpanded.vfepower</li>
+		<li>vanillaexpanded.vfeproduction</li>
+		<li>vanillaexpanded.vfepropsanddecor</li>
+		<li>vanillaexpanded.vfesecurity</li>
+		<li>vanillaexpanded.vfespacer</li>
+		<li>vanillaexpanded.vhe</li>
+		<li>vanillaexpanded.ideo.iconsandsymbols</li>
+		<li>vanillaexpanded.vplantsesucculents</li>
+		<li>vanillaexpanded.vtexe</li>
+		<li>vanillaexpanded.vwec</li>
+		<li>vanillaexpanded.vwe</li>
+		<li>vanillaexpanded.vwehw</li>
+		<li>vanillaexpanded.vwel</li>
+		<li>vanillaexpanded.vweq</li>
+		<li>vanillaexpanded.vweft</li>
+		<li>vanillaexpanded.vweg</li>
+		<li>vanillaexpanded.vwems</li>
+		<li>vanillaexpanded.vwenl</li>
+		<li>vanillaexpanded.vwetb</li>
+		<li>mlie.variousspaceshipchunk</li>
+		<li>ogliss.toastehs.veinminer</li>
+		<li>kompadt.warhammer.dryad</li>
+		<li>kompadt.warhammer.daemonette</li>
+		<li>kompadt.warhammer.fimir</li>
+		<li>kompadt.warhammer.gor</li>
+		<li>kompadt.warhammer.skaven</li>
+		<li>kompadt.warhammer.zhthyhl</li>
+		<li>kompadt.warhammer.freeguild</li>
+		<li>laast.worldmapenhanced</li>
+		<li>kokey.xeno</li>
+		<li>martinbaste.ideo.xenoprecept</li>
+		<li>averythekitty.xenohumansanthromorphs</li>
+		<li>albion.xenohumans</li>
+		<li>zxt.morepulseturrets.mod</li>
+		<li>zxt.morepulseturrets.extend.mod</li>
+		<li>privateger.nukes.shells</li>
+		<li>vanillaexpanded.vbookse</li>
+		<li>vanillaexpanded.vbrewe</li>
+		<li>vanillaexpanded.vbrewecandt</li>
+		<li>frozensnowfox.complexjobs</li>
+		<li>frozensnowfox.filthvanisheswithrainandtime</li>
+		<li>frozensnowfox.morequests</li>
+		<li>k4g.rww2</li>
+		<li>consolidatedtraits.kv.rw</li>
+		<li>factioncontrol.kv.rw</li>
+		<li>vanillaexpanded.vanillatraitsexpanded</li>
+		<li>moretraitslots.kv.rw</li>
+		<li>neronix17.ancient.decon</li>
+		<li>neronix17.hairstyles</li>
+		<li>neronix17.fr.content.dni</li>
+		<li>neronix17.fr.compilation</li>
+		<li>neronix17.kakamora</li>
+		<li>neronix17.shieldgenerators</li>
+		<li>ravvy.amw</li>
+		<li>sr.modrimworld.factionalwar</li>
+		<li>sr.modrimworld.raidextension</li>
+		<li>telkir.tmods.morefloors</li>
+		<li>mlie.xndadrenaline</li>
+		<li>krkr.rocketman</li>
+	</modIds>
+	<modNames>
+		<li>Harmony</li>
+		<li>BetterLoading</li>
+		<li>Core</li>
+		<li>Royalty</li>
+		<li>HugsLib</li>
+		<li>Ideology</li>
+		<li>Character Editor</li>
+		<li>1-2-3 Personalities</li>
+		<li>2020 Storyteller: Donald Trump</li>
+		<li>21st Century Arsenal (Continued)</li>
+		<li>FSharp.Core</li>
+		<li>Gunplay</li>
+		<li>Dual Wield</li>
+		<li>Yayo's Combat 3 [Adopted]</li>
+		<li>Humanoid Alien Races</li>
+		<li>[O21] Toolbox</li>
+		<li>Achtung!</li>
+		<li>Adaptive Threats</li>
+		<li>Astra Militarum Imperial Guard Core Mod v2.20</li>
+		<li>Astra Militarum Imperial Guard Factions Mod v2.21</li>
+		<li>Adeptus Mechanicus: Armoury</li>
+		<li>Adeptus Mechanicus: Magos Xenobiologis</li>
+		<li>Advanced Biomes (Continued)</li>
+		<li>Advanced Doors</li>
+		<li>Advanced Power Plus</li>
+		<li>Alien Vs Predator</li>
+		<li>A Dog Said... Animal Prosthetics</li>
+		<li>Pawnmorpher</li>
+		<li>Vanilla Achievements Expanded</li>
+		<li>Vanilla Expanded Framework</li>
+		<li>Alpha Animals</li>
+		<li>Alpha Biomes: Materials Compatibility Patch</li>
+		<li>Amogus Race</li>
+		<li>Ancient Eastern Armory</li>
+		<li>Androids</li>
+		<li>Anima Animals</li>
+		<li>Animal Collab Project Vanilla-Style</li>
+		<li>Animal Gear</li>
+		<li>Antimatter Annihilation</li>
+		<li>Apparello 2</li>
+		<li>Archotech Brain</li>
+		<li>Archotech Expanded</li>
+		<li>Archotech+ (Continued)</li>
+		<li>Archotech++</li>
+		<li>Arsenal of Revolution</li>
+		<li>Artifacts Expanded</li>
+		<li>Artillery Gun</li>
+		<li>Auto-Mortars(Unofficial)</li>
+		<li>Autocleaner</li>
+		<li>Better Map Sizes</li>
+		<li>Better Pawn Control</li>
+		<li>Better Transhumanists</li>
+		<li>SwimmingKit</li>
+		<li>Biomes! Core</li>
+		<li>Biomes! Oasis</li>
+		<li>[FSF] Advanced Bionics Expansion</li>
+		<li>Bionic icons</li>
+		<li>Bulk Stonecutting [1.3]</li>
+		<li>CM Color Coded Mood Bar [1.1+]</li>
+		<li>Camera+</li>
+		<li>Caravan Lag Eliminator</li>
+		<li>Dubs Bad Hygiene</li>
+		<li>Common Sense</li>
+		<li>Crystalloid</li>
+		<li>Cybernetic Organism and Neural Network</li>
+		<li>Cybernetic Storm</li>
+		<li>DE Surgeries</li>
+		<li>DOOM - Factions (Continued)</li>
+		<li>Damage Indicators [1.3]</li>
+		<li>Death Rattle Continued [1.2]</li>
+		<li>Megafauna</li>
+		<li>Dinosauria</li>
+		<li>Diseases Overhauled</li>
+		<li>DontBlockDoor</li>
+		<li>Door Mat</li>
+		<li>Allow Tool</li>
+		<li>Dubs Mint Menus</li>
+		<li>Dubs Skylights</li>
+		<li>Ducks' Insane Skills</li>
+		<li>Ducks' No Limits - Ideology</li>
+		<li>Dune (Continued)</li>
+		<li>Dynamic Diplomacy</li>
+		<li>EdB Prepare Carefully (Unofficial 1.3 Patch)</li>
+		<li>Anima Gear</li>
+		<li>Elders Faction</li>
+		<li>Enable Oversized Weapons</li>
+		<li>Epic Rivers</li>
+		<li>EvolvedOrgansRedux</li>
+		<li>Expanded Incidents (Continued)</li>
+		<li>Expanded Prosthetics and Organ Engineering</li>
+		<li>Explosive Implant (Continued)</li>
+		<li>FCP FNV Heavy Weapons Pack!</li>
+		<li>FCP Fallout Creation Club Rifle Pack!</li>
+		<li>FCP Fallout New Vegas Assault Rifles and LMG Pack!</li>
+		<li>FCP Fallout New Vegas Lever Action Rifles!</li>
+		<li>FCP Fallout New Vegas Pistols!</li>
+		<li>FCP Fallout New Vegas Shotguns!</li>
+		<li>FCP Fallout New Vegas Submachine Guns!</li>
+		<li>FCP Makeshift Weapons Pack</li>
+		<li>FCP Raider Armor and Apparel Teaser</li>
+		<li>Faction to Empires (Continued)</li>
+		<li>Fallout Traits (Continued)</li>
+		<li>Fallout: Retro Weapon Pack</li>
+		<li>Family</li>
+		<li>Farmable Neutroamine</li>
+		<li>Fell Tribes</li>
+		<li>Forsakens: Fauna</li>
+		<li>Fortifications - Medieval</li>
+		<li>Fortifications - Medieval - Material</li>
+		<li>Fortifications - Neolithic</li>
+		<li>GlitterNet</li>
+		<li>Go Explore!</li>
+		<li>Greyer morals (Continued)</li>
+		<li>H.P. Lovecraft Storyteller (Continued)</li>
+		<li>Halo UNSC Weapon Pack</li>
+		<li>High Tech Laboratory Facilities (Continued)</li>
+		<li>Historical Religious Symbols</li>
+		<li>Horrors (Continued)</li>
+		<li>Hunt for Me</li>
+		<li>Simple sidearms</li>
+		<li>Hunters Use Melee!</li>
+		<li>Hybrid Animals</li>
+		<li>Ideology Revolution</li>
+		<li>Immortals</li>
+		<li>Industrial Melee</li>
+		<li>Infused</li>
+		<li>Infusion 2</li>
+		<li>Insectoids Evolved</li>
+		<li>Inspiration Tweaks</li>
+		<li>Introducing Slavery</li>
+		<li>Jin-Roh Kerberos Panzer Cop Armor (Continued)</li>
+		<li>Just Ignore Me Passing</li>
+		<li>Kaiser Armory [1.3]</li>
+		<li>Kenshi Armory</li>
+		<li>Kenshi Hiver Race</li>
+		<li>Kenshi Skeleton Race</li>
+		<li>Kill For Me</li>
+		<li>Large Faction Bases</li>
+		<li>Let Me Skill For You</li>
+		<li>Let's Trade! [1.3+]</li>
+		<li>Level Up!</li>
+		<li>Lizardmen</li>
+		<li>Mad Skills</li>
+		<li>Magical Menagerie</li>
+		<li>Map Wide Orbital Trade Beacon</li>
+		<li>Mass Graves</li>
+		<li>Mechanite Plague</li>
+		<li>MechanoidWeapons</li>
+		<li>Mechanoids Extraordinaire</li>
+		<li>Medieval Madness: Tools of the Trade</li>
+		<li>Medieval Times Unofficial Update</li>
+		<li>MendAndRecycle</li>
+		<li>MinifyEverything</li>
+		<li>Miscellaneous 'CORE'</li>
+		<li>Misc. Endgame</li>
+		<li>Misc. Incidents</li>
+		<li>Misc. Training</li>
+		<li>Mod Manager</li>
+		<li>Moonjelly Race</li>
+		<li>More Faction Interaction (Continued)</li>
+		<li>More Harvest Designators!</li>
+		<li>More Mechanoids</li>
+		<li>More Melee Weapons!</li>
+		<li>More Pause Events</li>
+		<li>More Psycasts</li>
+		<li>More Vanilla Biomes</li>
+		<li>More Vanilla Turrets 1.1+</li>
+		<li>Biomes! Islands</li>
+		<li>Alpha Biomes</li>
+		<li>Vanilla Apparel Expanded</li>
+		<li>Expanded Materials - Plastics</li>
+		<li>Vanilla Fishing Expanded</li>
+		<li>ReGrowth: Core and Framework</li>
+		<li>ReGrowth: Aspen Forests</li>
+		<li>Vanilla Plants Expanded</li>
+		<li>Vanilla Cooking Expanded</li>
+		<li>Vanilla Factions Expanded - Insectoids</li>
+		<li>MorrowRim</li>
+		<li>Naked People Manhunt</li>
+		<li>Nanotech Overpower</li>
+		<li>Brain In a Jar</li>
+		<li>Rah's Bionics and Surgery Expansion</li>
+		<li>Harvest Everything!</li>
+		<li>Harvest Organs Post Mortem</li>
+		<li>No Sympathy for Prisoners</li>
+		<li>No more sleeping Z's</li>
+		<li>Norbal Viking Program (Continued)</li>
+		<li>Obsidia Expansion</li>
+		<li>OgreStack</li>
+		<li>Overkill (A God Trait)</li>
+		<li>[KV] RimFridge</li>
+		<li>LWM's Deep Storage</li>
+		<li>Pick Up And Haul</li>
+		<li>Camping Tent</li>
+		<li>Post-apocalyptic Shelters</li>
+		<li>Power Tools</li>
+		<li>Project RimFactory Revived</li>
+		<li>Project RimFactory - Drones</li>
+		<li>Project RimFactory - Insanity</li>
+		<li>PsiTech</li>
+		<li>Pulsefire Turret (Continued)</li>
+		<li>Quality Bionics</li>
+		<li>Quality Colors</li>
+		<li>Quality Of Building</li>
+		<li>QualitySurgeon</li>
+		<li>Quarry</li>
+		<li>Quick Stockpile Creation</li>
+		<li>RIMkea</li>
+		<li>RPG Style Inventory Revamped</li>
+		<li>RT Fuse</li>
+		<li>Race to the Rim</li>
+		<li>Raids For Me</li>
+		<li>Rambo Weapons Pack (Continued)</li>
+		<li>ReGrowth: Boreal Forest Expansion</li>
+		<li>ReGrowth: Cold Bog Expansion</li>
+		<li>ReGrowth: Desert Expansion</li>
+		<li>ReGrowth: Extinct Animals Pack</li>
+		<li>ReGrowth: Temperate Forest Expansion</li>
+		<li>ReGrowth: Tundra Expansion</li>
+		<li>ReGrowth: Wastelands</li>
+		<li>Realistic Rooms [1.3]</li>
+		<li>Rebound (Continued)</li>
+		<li>Red Dragon</li>
+		<li>Remedies</li>
+		<li>Remove All Bodyparts (Continued)</li>
+		<li>Research Whatever</li>
+		<li>ResearchPal - Forked</li>
+		<li>Rim of Madness - Arachnophobia (Continued)</li>
+		<li>Rim of Madness - Bones</li>
+		<li>Rim-Hivers!</li>
+		<li>Rim-Shek</li>
+		<li>RimBees</li>
+		<li>RimCities</li>
+		<li>RimForge</li>
+		<li>RimHUD</li>
+		<li>RimNauts</li>
+		<li>RimQuest (Continued)</li>
+		<li>RimTraits - General Traits</li>
+		<li>RimTraits - Medieval Talents</li>
+		<li>RimTraits - Vanilla Trait Colors</li>
+		<li>Rimatomics</li>
+		<li>Rimefeller</li>
+		<li>Rimlaser</li>
+		<li>Rimsenal - Enhanced Vanilla Pack</li>
+		<li>Rimsenal - Federation Faction Pack</li>
+		<li>Rimsenal - Feral Faction Pack</li>
+		<li>Rimsenal - Core</li>
+		<li>Rimsenal - Rimhair</li>
+		<li>Rimsenal - Security pack</li>
+		<li>Rimsenal - Storyteller pack</li>
+		<li>Run and Hide (Continued)</li>
+		<li>RunAndGun</li>
+		<li>Save/Load Ideos</li>
+		<li>Scarification (Continued)</li>
+		<li>Scheduled Events (Continued)</li>
+		<li>ShadowRimRaces</li>
+		<li>Sharknado</li>
+		<li>Shoo!</li>
+		<li>Simple Recycling</li>
+		<li>Simply More Bridges (Continued)</li>
+		<li>Skrix - An Insect-like Race</li>
+		<li>Slave Outfits [1.3]</li>
+		<li>Smart Speed</li>
+		<li>Smarter Construction</li>
+		<li>Snap Out!</li>
+		<li>Soviet Armory [1.3]</li>
+		<li>Sowable Anima Tree</li>
+		<li>Space Worms (Continued)</li>
+		<li>Sparkling Worlds - Full Mod</li>
+		<li>Synergistic Traits</li>
+		<li>Tech Advancing</li>
+		<li>Tech Primitives</li>
+		<li>The Zerg!</li>
+		<li>Tilled Soil</li>
+		<li>Trait Rarity Colors</li>
+		<li>USCM - Xenomorphs Faction</li>
+		<li>Ultratech: Altered Carbon Remastered</li>
+		<li>UnLimitedArmor</li>
+		<li>Unlock Emperor (Continued)</li>
+		<li>VGP Vegetable Garden</li>
+		<li>VGP Garden Resources</li>
+		<li>VGP More Veggies</li>
+		<li>VGP Xtra Trees and Flowers</li>
+		<li>Vanilla Animals Expanded — Arid Shrubland</li>
+		<li>Vanilla Animals Expanded — Australia</li>
+		<li>Vanilla Animals Expanded — Boreal Forest</li>
+		<li>Vanilla Animals Expanded — Cats and Dogs</li>
+		<li>Vanilla Animals Expanded — Desert</li>
+		<li>Vanilla Animals Expanded — Extreme Desert</li>
+		<li>Vanilla Animals Expanded — Ice Sheet</li>
+		<li>Vanilla Animals Expanded — Temperate Forest</li>
+		<li>Vanilla Animals Expanded — Tropical Rainforest</li>
+		<li>Vanilla Animals Expanded — Tropical Swamp</li>
+		<li>Vanilla Animals Expanded — Tundra</li>
+		<li>Vanilla Apparel Expanded — Accessories</li>
+		<li>Vanilla Armour Expanded</li>
+		<li>Vanilla Cooking Expanded - Stews</li>
+		<li>Vanilla Events Expanded</li>
+		<li>Mechanoid Bench 2</li>
+		<li>Vanilla Factions Expanded - Mechanoids</li>
+		<li>Vanilla Fishing Expanded - Fishing Treasures AddOn</li>
+		<li>Vanilla Furniture Expanded</li>
+		<li>Vanilla Furniture Expanded - Art</li>
+		<li>Vanilla Furniture Expanded - Farming</li>
+		<li>Vanilla Furniture Expanded - Medical Module</li>
+		<li>Vanilla Furniture Expanded - Power</li>
+		<li>Vanilla Furniture Expanded - Production</li>
+		<li>Vanilla Furniture Expanded - Props and Decor</li>
+		<li>Vanilla Furniture Expanded - Security</li>
+		<li>Vanilla Furniture Expanded - Spacer Module</li>
+		<li>Vanilla Hair Expanded</li>
+		<li>Vanilla Ideology Expanded - Icons and Symbols</li>
+		<li>Vanilla Plants Expanded - Succulents</li>
+		<li>Vanilla Textures Expanded</li>
+		<li>Vanilla Weapons Expanded - Coilguns</li>
+		<li>Vanilla Weapons Expanded</li>
+		<li>Vanilla Weapons Expanded - Heavy Weapons</li>
+		<li>Vanilla Weapons Expanded - Laser</li>
+		<li>Vanilla Weapons Expanded - Quickdraw</li>
+		<li>Vanilla Weapons Expanded - Frontier</li>
+		<li>Vanilla Weapons Expanded - Grenades</li>
+		<li>Vanilla Weapons Expanded - Makeshift</li>
+		<li>Vanilla Weapons Expanded - Non-Lethal</li>
+		<li>Vanilla Weapons Expanded - Tribal</li>
+		<li>Various Space Ship Chunk (Continued)</li>
+		<li>Veinminer R1.1</li>
+		<li>Warhammer"ish":Dryad</li>
+		<li>Warhammer: Daemonettes</li>
+		<li>Warhammer: Fimir</li>
+		<li>Warhammer: Gor</li>
+		<li>Warhammer: Skaven</li>
+		<li>Warhammer: Zhthy'hl</li>
+		<li>Warhammer:Freeguild</li>
+		<li>World Map Enhanced</li>
+		<li>X.E.N.O</li>
+		<li>XenoDiversity Precept</li>
+		<li>Xenohumans - Anthromorphs</li>
+		<li>Xenohumans - Gen-spliced Xenos on the Rim</li>
+		<li>Z_More Pulse Turrets 更多脉冲炮塔</li>
+		<li>Z_More Pulse Turrets+ 更多脉冲炮塔+</li>
+		<li>[1.3] Nukes</li>
+		<li>Vanilla Books Expanded</li>
+		<li>Vanilla Brewing Expanded</li>
+		<li>Vanilla Brewing Expanded - Coffees and Teas</li>
+		<li>[FSF] Complex Jobs</li>
+		<li>[FSF] Filth Vanishes With Rain And Time</li>
+		<li>[FSF] More Quests</li>
+		<li>[K4G] RimWorld War 2</li>
+		<li>[KV] Consolidated Traits</li>
+		<li>[KV] Faction Control</li>
+		<li>Vanilla Traits Expanded</li>
+		<li>[KV] More Trait Slots</li>
+		<li>[O21] Ancient Demolition</li>
+		<li>[O21] Extended Hair</li>
+		<li>[O21] Dragons Not Included</li>
+		<li>[O21] Forgotten Realms</li>
+		<li>[O21] Kakamora</li>
+		<li>[O21] Shield Generators</li>
+		<li>[RWY]Advanced Mechanoid Warfare</li>
+		<li>[SR]Factional War</li>
+		<li>[SR]Raid Extension</li>
+		<li>[T] MoreFloors</li>
+		<li>[XND] Adrenaline! (Continued)</li>
+		<li>RocketMan - Performance Mod</li>
+	</modNames>
+</ModList>
